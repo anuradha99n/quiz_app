@@ -1,6 +1,5 @@
 package com.anuradha.quizapp.controller;
 
-import com.anuradha.quizapp.model.Question;
 import com.anuradha.quizapp.model.QuestionWrapper;
 import com.anuradha.quizapp.model.Response;
 import com.anuradha.quizapp.service.QuizService;
